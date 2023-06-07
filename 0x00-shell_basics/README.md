@@ -1,1 +1,1 @@
-it lists all files and directories separated by a coma
+creates magic file thta can be detected
