@@ -1,1 +1,1 @@
-deletes all file in current working directory
+deletes all files that ends with the character
