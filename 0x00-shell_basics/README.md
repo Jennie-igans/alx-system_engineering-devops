@@ -1,1 +1,1 @@
-it lists files in current directory in long format
+it shows all files including hidden files in a directory
