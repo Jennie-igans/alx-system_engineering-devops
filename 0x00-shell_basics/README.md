@@ -1,1 +1,1 @@
-shows all long file, hidden files and group ids numerically
+it creates my_first directory directory in tmp
