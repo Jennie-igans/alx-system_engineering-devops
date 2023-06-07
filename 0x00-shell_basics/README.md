@@ -1,1 +1,1 @@
-it moves the file, betty to my_first_directory
+deletes the file betty
