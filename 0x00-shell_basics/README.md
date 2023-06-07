@@ -1,1 +1,1 @@
-it changes the directory to a desired directory
+it lists files in current directory in long format
