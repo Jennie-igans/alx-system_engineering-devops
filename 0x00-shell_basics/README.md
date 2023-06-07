@@ -1,1 +1,1 @@
-it shows all files including hidden files in a directory
+shows all long file, hidden files and group ids numerically
