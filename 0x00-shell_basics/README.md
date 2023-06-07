@@ -1,1 +1,1 @@
-it creates my_first directory directory in tmp
+it moves the file, betty to my_first_directory
