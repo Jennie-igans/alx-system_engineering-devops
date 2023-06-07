@@ -1,1 +1,1 @@
-lists all file in current directory and parent
+creates a file named iamafile
