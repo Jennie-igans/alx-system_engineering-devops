@@ -1,1 +1,1 @@
-copies html file
+copies all files with upper case
