@@ -1,1 +1,1 @@
-copies all files with upper case
+deletes all file in current working directory
