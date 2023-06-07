@@ -1,1 +1,1 @@
-creates magic file that can be detected
+creates a magic file that is detected
