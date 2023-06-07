@@ -1,1 +1,1 @@
-lists all files and directory separated by a comma
+it lists all files and directories separated by a comma
