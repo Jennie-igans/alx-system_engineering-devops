@@ -1,1 +1,1 @@
-it displays all the contents of a directory
+it changes the directory to a desired directory
