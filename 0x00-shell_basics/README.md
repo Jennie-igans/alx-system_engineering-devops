@@ -1,1 +1,1 @@
-creates a file named iamafile
+creates a symbolic link
