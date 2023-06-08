@@ -1,1 +1,1 @@
-maks hello executeable
+gives all permission to everybody
