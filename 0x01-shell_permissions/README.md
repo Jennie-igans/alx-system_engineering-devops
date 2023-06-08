@@ -1,1 +1,1 @@
-prints effective username of current user
+prints all the ggruop the user is part of
