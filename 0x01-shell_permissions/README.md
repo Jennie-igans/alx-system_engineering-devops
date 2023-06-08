@@ -1,1 +1,1 @@
-sets the mode of hello to code
+sets mode of file for hello
