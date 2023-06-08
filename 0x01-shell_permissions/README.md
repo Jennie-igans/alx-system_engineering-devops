@@ -1,1 +1,1 @@
-prints all the ggruop the user is part of
+changes the ownership of hello to betty
