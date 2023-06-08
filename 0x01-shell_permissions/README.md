@@ -1,1 +1,1 @@
-adds execution to all current dir
+creates the dir my_dir
