@@ -1,1 +1,1 @@
-sets mode of file for hello
+adds execution to all current dir
