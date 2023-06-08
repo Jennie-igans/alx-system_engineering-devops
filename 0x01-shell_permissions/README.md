@@ -1,1 +1,1 @@
-creates the dir my_dir
+changes the group ownership
