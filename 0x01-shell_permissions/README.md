@@ -1,1 +1,1 @@
-it gives all permission to other user only
+sets the mode of hello to code
