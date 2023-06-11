@@ -1,1 +1,1 @@
-takes lists of words and removes duplicate
+displays line containin pattern root in the file
