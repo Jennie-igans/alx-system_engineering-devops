@@ -1,1 +1,1 @@
-writes into the created file
+duplicates the last line of iacta
