@@ -1,1 +1,1 @@
-replaces letters with the subsequent ones
+removes all letters c and C
