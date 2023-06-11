@@ -1,1 +1,1 @@
-displays pattern containing root and 3 lines after
+displays all lines that do not contain bin
