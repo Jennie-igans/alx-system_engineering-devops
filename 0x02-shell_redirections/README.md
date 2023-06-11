@@ -1,1 +1,1 @@
-it pusts best school into the created file
+writes into the created file
