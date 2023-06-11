@@ -1,1 +1,1 @@
-displays line containin pattern root in the file
+displays pattern containing root and 3 lines after
