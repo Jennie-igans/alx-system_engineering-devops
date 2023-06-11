@@ -1,1 +1,1 @@
-displays 10 newest files in the working directory
+takes lists of words and removes duplicate
