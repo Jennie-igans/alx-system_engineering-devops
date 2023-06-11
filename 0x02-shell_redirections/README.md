@@ -1,1 +1,1 @@
-removes all letters c and C
+reverse all input
