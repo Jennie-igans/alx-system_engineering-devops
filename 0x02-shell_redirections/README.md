@@ -1,1 +1,1 @@
-displays all lines that do not contain bin
+displays file content begining with capital letter
