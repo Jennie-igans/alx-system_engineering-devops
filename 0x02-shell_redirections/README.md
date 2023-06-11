@@ -1,1 +1,1 @@
-duplicates the last line of iacta
+deletes regular file with .js in current working directory
