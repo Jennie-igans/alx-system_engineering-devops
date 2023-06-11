@@ -1,1 +1,1 @@
-displays file content begining with capital letter
+replaces letters with the subsequent ones
