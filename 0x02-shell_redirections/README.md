@@ -1,1 +1,1 @@
-displays the third line of iacta
+it pusts best school into the created file
