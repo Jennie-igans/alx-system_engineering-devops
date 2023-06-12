@@ -1,1 +1,1 @@
-displays all empty files
+displays all .gif files
