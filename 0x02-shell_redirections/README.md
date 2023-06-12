@@ -1,1 +1,1 @@
-displays all .gif files
+decodes all acrostic
