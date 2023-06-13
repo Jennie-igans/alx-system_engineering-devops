@@ -1,1 +1,1 @@
-adds two numbers stored environment variables and prints result
+creates a script that counts directory
