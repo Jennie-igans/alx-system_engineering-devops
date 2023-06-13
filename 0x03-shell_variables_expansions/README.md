@@ -1,1 +1,1 @@
-creates a script that counts directory
+adds 2 numbers stored in global variable water and stir
