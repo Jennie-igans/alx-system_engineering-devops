@@ -1,1 +1,1 @@
-a script that lists environment and function
+creates a new local variable
