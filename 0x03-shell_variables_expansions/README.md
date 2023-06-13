@@ -1,1 +1,1 @@
-creates an alias named ls
+prints hello user
