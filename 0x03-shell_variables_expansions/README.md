@@ -1,1 +1,1 @@
-creates a script that counts no of directory
+creates a script that lists environment variables
