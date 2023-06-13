@@ -1,1 +1,1 @@
-writes a script that converts base 2 to base 10
+creates a formula for all combinations of all lettres except oo
