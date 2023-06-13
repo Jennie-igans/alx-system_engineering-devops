@@ -1,1 +1,1 @@
-a script thar encodes and decodes text using rot13 encryption
+prints every other line from the input
