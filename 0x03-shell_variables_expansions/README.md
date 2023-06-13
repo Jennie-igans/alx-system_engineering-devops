@@ -1,1 +1,1 @@
-prints hello user
+adds action to path
