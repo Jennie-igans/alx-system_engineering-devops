@@ -1,1 +1,1 @@
-prints a number that converts from base 10 to base 16
+a script thar encodes and decodes text using rot13 encryption
