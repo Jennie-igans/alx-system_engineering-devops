@@ -1,1 +1,1 @@
-prints the result pf power to divide
+displays the result of breath to the power love
